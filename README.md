@@ -9,7 +9,7 @@
 
 <br />
 
-## 📫 How to reach me:
+## 📫 How to reach me: phath321@gmail.com
 
 
   <a href="https://www.facebook.com/Phatdeptry.IT" alt="Facebook">
