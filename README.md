@@ -3,21 +3,13 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
-
 - ✍ I'm a middle software developer 
-
 <br />
 
 ## 📫 How to reach me: phath321@gmail.com
-
-
   <a href="https://www.facebook.com/Phatdeptry.IT" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TPIT755" alt="Github">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-logo.png"/>
-  
 </p>
 
 ## Skills:
