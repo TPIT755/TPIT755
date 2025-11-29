@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/TPIT755" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="[https://img.icons8.com/fluent/48/000000/github.png](https://img.icons8.com/?size=100&id=32323&format=png&color=000000)"/>
   
 </p>
 
